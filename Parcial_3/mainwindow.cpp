@@ -76,8 +76,6 @@ void MainWindow::on_pushButton_clicked()
     ui->simular->setEnabled(true);
 
 
-
-
     //timer->start(20);
 }
 
