@@ -26,6 +26,8 @@ public slots:
 private slots:
     void on_pushButton_clicked();
 
+    void on_simular_clicked();
+
 private:
     Ui::MainWindow *ui;
     QTimer *timer;
